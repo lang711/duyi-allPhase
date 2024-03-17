@@ -153,6 +153,7 @@ h1 {
 
 .results {
   display: none;
+  background: #fff;
   position: absolute;
   top: 50px;
   left: 0;
