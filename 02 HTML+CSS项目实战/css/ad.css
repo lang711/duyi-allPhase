@@ -79,7 +79,7 @@
   transition: box-shadow .2s linear, -webkit-box-shadow .2s linear;
 }
 
-.mask:hover {
+.ads .mask:hover {
   box-shadow: 0 15px 30px rgba(0, 0, 0, .1);
 }
 
